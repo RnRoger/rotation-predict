@@ -1,0 +1,5 @@
+Test 80 of infinity has an accuracy of 0.92
+300,mse,adam,relu,4,1919419925,2,0.92
+
+Test 75 of infinity has an accuracy of 1.0
+300,mse,rmsprop,relu,4,728223267,3,1.0
